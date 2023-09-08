@@ -1,0 +1,17 @@
+.btn-bz{
+    background-color: #ff904f;
+    border: 1px solid #ff904f;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.2em;
+}
+.col-bz{
+    color: #ff904f;
+}
+hr{
+    width: 60px;
+    border: 2px solid #ff904f;
+}
+.img-bz{
+    filter: grayscale(100%);
+}

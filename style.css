@@ -1,7 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .btn-bz{
     background-color: #ff904f;
     border: 1px solid #ff904f;
     color: white;
+    padding: 10px 20px;
+    font-size: 1.2em;
+}
+.btn-sec-bz{
+    color: #ff904f;
+    border: 1px solid #ff904f;
     padding: 10px 20px;
     font-size: 1.2em;
 }
